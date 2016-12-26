@@ -28,7 +28,7 @@ class browserApp(app):
 
 	def __init__(self,**kwargs):
 
-		super(BrowserScreen,self).__init__(**kwargs)
+		super(browserApp,self).__init__(**kwargs)
 	    
 		Clock.schedule_once(self._on_init_complete)
 
