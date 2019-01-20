@@ -1,4 +1,4 @@
-# Kivy Android Webview 
+# Kivy Android Webview, For Demonstrational & Educational Purpose only (Not MaintainedAny More)
 Kivy Android Webview with native android webview event supports 
 To install it your project , just download the folders razzbee and java_classes into your project folders 
 
